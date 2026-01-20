@@ -1,0 +1,8 @@
+
+{
+  "name": "AdaptAI Designer",
+  "description": "An intelligent, AI-powered adaptive layout designer that transforms natural language descriptions and sketches into responsive, production-ready React components.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
